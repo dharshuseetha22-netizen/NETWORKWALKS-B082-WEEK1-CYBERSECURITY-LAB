@@ -100,6 +100,8 @@ I explored the virtual machine settings and became familiar with the configurati
 **Tool:** Kali Linux
 
 ### Step 3. Create the NAT Network
+<img width="1600" height="900" alt="WhatsApp Image 2026-10-29 at 9 53 59 PM" src="https://github.com/user-attachments/assets/7a5ccf24-c3ba-4eb4-96d8-eb79fb30bbdc" />
+
 
 A virtual network named `Cyberlab` was created in VirtualBox.
 
