@@ -54,6 +54,8 @@ It can be used for activities such as:
 ---
 
 ## 🏗️ Lab Architecture
+<img width="1346" height="616" alt="WhatsApp Image 2026-10-29 at 10 48 22 PM" src="https://github.com/user-attachments/assets/c53eeba0-a8be-4277-adde-8c37c849cd43" />
+
 
 The laboratory uses Windows 11 as the host operating system, Oracle VirtualBox as the hypervisor, and Kali Linux as the guest operating system.
 
