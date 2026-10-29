@@ -235,7 +235,6 @@ Networkwalks Cybersecurity Program — Batch B082
 * **Virtualization Platform:** Oracle VirtualBox
 * **Guest Operating System:** Kali Linux
 
-⭐ *Learning by doing, troubleshooting, and documenting every step of my cybersecurity journey.*
 
 
 
