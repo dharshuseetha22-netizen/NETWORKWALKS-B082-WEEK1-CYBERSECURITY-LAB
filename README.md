@@ -114,7 +114,8 @@ I explored the network settings to understand how a virtual machine connects to 
 **Network Type:** NAT Network
 
 ### Step 4. Connect Kali Linux to the Network
-![Uploading WhatsApp Image 2026-10-27 at 11.00.17 PM.jpeg…]()
+<img width="1600" height="768" alt="WhatsApp Image 2026-10-27 at 11 00 17 PM" src="https://github.com/user-attachments/assets/3f7942b6-0a63-43a5-bc6f-50a01e7bdec9" />
+
 
 
 I checked the network adapter settings assigned to the Kali Linux virtual machine.
