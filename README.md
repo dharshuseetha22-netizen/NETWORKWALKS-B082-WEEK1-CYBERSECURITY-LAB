@@ -92,6 +92,8 @@ This allowed me to work with a Linux environment without replacing my host opera
 **Tool:** Oracle VirtualBox
 
 ### Step 2. Configure Kali Linux
+<img width="1600" height="768" alt="WhatsApp Image 2026-10-27 at 10 58 42 PM" src="https://github.com/user-attachments/assets/782831c1-57bf-4f03-978a-20eb60083547" />
+
 
 Kali Linux was configured as the guest operating system inside VirtualBox.
 
@@ -100,7 +102,7 @@ I explored the virtual machine settings and became familiar with the configurati
 **Tool:** Kali Linux
 
 ### Step 3. Create the NAT Network
-<img width="1600" height="900" alt="WhatsApp Image 2026-10-29 at 9 53 59 PM" src="https://github.com/user-attachments/assets/7a5ccf24-c3ba-4eb4-96d8-eb79fb30bbdc" />
+<img width="1600" height="842" alt="WhatsApp Image 2026-10-29 at 11 00 42 PM" src="https://github.com/user-attachments/assets/bf4cfeee-afc1-4ae3-b7d1-388bb1f5a78f" />
 
 
 A virtual network named `Cyberlab` was created in VirtualBox.
@@ -112,6 +114,8 @@ I explored the network settings to understand how a virtual machine connects to 
 **Network Type:** NAT Network
 
 ### Step 4. Connect Kali Linux to the Network
+![Uploading WhatsApp Image 2026-10-27 at 11.00.17 PM.jpeg…]()
+
 
 I checked the network adapter settings assigned to the Kali Linux virtual machine.
 
